@@ -19,4 +19,4 @@ Required Python packages (ecdsa, base58)
 How to Run
 Download the zip file.
 Extract the zip file.
-Run the pollard kangaroo.exe.
+Run the Execute.exe.
